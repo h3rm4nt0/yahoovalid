@@ -65,7 +65,7 @@ def yahoolist():
                 print W + '[ ' + G + 'GATAU ' + W + '] ' + mail
 
     print 'Program finished'
-    print 'Data saved valid.txt & invalid.txt'
+    print 'Data saved busuk.txt & ok.txt'
     save.close()
     save2.close()
 
